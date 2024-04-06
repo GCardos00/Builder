@@ -1,0 +1,12 @@
+refactoring_guru\builder\example\builders\Builder.class
+refactoring_guru\builder\example\components\Transmission.class
+refactoring_guru\builder\example\Demo.class
+refactoring_guru\builder\example\builders\CarManualBuilder.class
+refactoring_guru\builder\example\components\Engine.class
+refactoring_guru\builder\example\cars\Manual.class
+refactoring_guru\builder\example\builders\CarBuilder.class
+refactoring_guru\builder\example\components\TripComputer.class
+refactoring_guru\builder\example\cars\Car.class
+refactoring_guru\builder\example\components\GPSNavigator.class
+refactoring_guru\builder\example\director\Director.class
+refactoring_guru\builder\example\cars\CarType.class
